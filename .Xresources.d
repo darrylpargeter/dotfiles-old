@@ -1,0 +1,1 @@
+/home/darryl/.dotfiles/X/Xresources.d

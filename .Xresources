@@ -1,0 +1,3 @@
+!includes
+#include ".Xresources.d/nord"
+#include ".Xresources.d/rofi"

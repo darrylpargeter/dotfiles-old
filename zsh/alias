@@ -1,0 +1,12 @@
+alias zshconfig="vim ~/.zshrc"
+alias ohmyzsh="vim ~/.oh-my-zsh"
+alias i3config='vim ~/.i3/config'
+alias projects='cd ~/Documents/code/projects'
+alias ..='cd ..'
+alias workVPN='sudo openvpn --config ~/.vpn/client.ovpn'
+alias vpn='sudo vpnLog; sudo openvpn --config ~/.vpn/Windscribe-United-Kingdom.ovpn --writepid /var/run/openvpn-client/vpn.pid'
+alias vpnG='sudo openvpn --config ~/.vpn/Windscribe-Germany.ovpn' 
+alias startTensor='source ~/tensorflow/bin/activate'
+alias stopTensor='deactivate'
+alias rl='source ~/.zshrc'
+alias curl='~/bin/bin/curl'
